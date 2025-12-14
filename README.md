@@ -8,18 +8,33 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; 
-![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Java&logoColor=007396)
-![shell](https://img.shields.io/badge/-shell-333333?style=flat&logo=node.js)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 💻 &#160;  
+  ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=c&logoColor=00599C)  
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)  
+  ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=gnu-bash&logoColor=4EAA25)  
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)  
+
+- 🌐 &#160;  
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor=E34F26)  
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)  
+  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js&logoColor=4FC08D)
+  ![Qt](https://img.shields.io/badge/-Qt-333333?style=flat&logo=qt&logoColor=41CD52)
+  
+- 🛢 &#160;  
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)  
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)  
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
+  
+- 🤖 &#160;  
+  ![LLM](https://img.shields.io/badge/-LLM-333333?style=flat&logo=deepmind&logoColor=00E5FF)
+
+- 🐳 &#160;  
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
+
+- 🔧 &#160;  
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)  
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=181717)  
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown&logoColor=000000)
 
 
 ### 关于我

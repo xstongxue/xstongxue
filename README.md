@@ -30,7 +30,7 @@
 - [微信公众号：小帅随笔](https://gcore.jsdelivr.net/gh/gms2020/BlogPicture/img/20210218120955.png)
 - [小帅博客](https://xiaoshuai.link/)
 - [小帅导航](https://xydh.fun/gmengshuai)
-- [小帅同学的储物间](https://xiaoshuai.site)
+- [小帅同学的储物间](https://xiaoshuai.site/xiaoshuai)
 
 
 ⭐️ From [xstongxue](https://github.com/xstongxue)
